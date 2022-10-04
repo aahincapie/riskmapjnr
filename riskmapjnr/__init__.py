@@ -30,8 +30,8 @@ from .validation import validation
 from .makemap import makemap
 from .plot import fcc123, riskmap
 
-# # Welcome message
-# print("# riskmapjnr: Map of deforestation risk following JNR methodology.")
-# print("# https://ecology.ghislainv.fr/riskmapjnr/")
+# Welcome message
+print("# riskmapjnr: Map of deforestation risk following JNR methodology.")
+print("# https://ecology.ghislainv.fr/riskmapjnr/")
 
-# EOF
+# End part
